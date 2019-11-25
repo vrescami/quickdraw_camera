@@ -6,7 +6,7 @@ Get the npy files over [here](https://console.cloud.google.com/storage/browser/q
 
 ## CNN model
 Convolutional Neural Network model was taken from:
-[https://github.com/kradolfer/quickdraw-image-recognition](https://github.com/kradolfer/quickdraw-image-recognition)
+[https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/](https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/)
 
 ## Screenshots
 
